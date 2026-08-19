@@ -8,3 +8,10 @@ This portfolio showcases my academic journey, technical skills, projects, and ac
 I am a B.Tech engineering student interested in software development and emerging technologies.
 I enjoy learning new technologies and building practical projects.
 
+## Skills
+
+- Python
+- Java
+- Git & GitHub
+- HTML, CSS & JavaScript
+- MySQL
