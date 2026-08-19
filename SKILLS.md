@@ -5,3 +5,4 @@
 - HTML, CSS & JavaScript
 - MySQL
 - Git & GitHub
+- SQL
